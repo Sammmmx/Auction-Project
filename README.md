@@ -1,4 +1,4 @@
-#Auction Contract
+# Auction Contract
 
 ## Overview
 A decentralized auction system built in Solidity that supports multiple simultaneous auctions. Users can create auctions, place bids, and cancel auctions. Gas optimized with custom errors and mapping-based state management.
